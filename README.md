@@ -7,3 +7,6 @@ Lightweight Java Game Library
 
 *OpenGL.
 
+I acknowledge the partial or complete use of code retrieved from the following sources:
+
+* Gerrald Shultz(2019), Notes and Slides for a Computer Graphics Course (CS 3510), Fall Semester 2019 MSU Denver. 
